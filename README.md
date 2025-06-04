@@ -1,16 +1,25 @@
-## Hi there 👋
+# Leandro Pires de Moraes Filho
 
-<!--
-**LeandroPfilho/LeandroPfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, seja bem-vindo ao meu perfil! Meu nome é **Leandro Pires de Moraes Filho**, sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
+## Sobre mim
 
-Here are some ideas to get you started:
+- **Idade:** 19
+- **Curso:** Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+- **Interesses:** Empreendedorismo, programação e Tecnologia.
+  
+## O que eu faço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprofundando meus conhecimentos na área da **programação** e **empreendorismo**
+
+## Projetos
+
+Aqui estão alguns dos projetos que estou desenvolvendo ou já desenvolvi durante meus estudos:
+
+**Os projetos ainda serão colocados**
+
+## Como entrar em contato
+
+- **LinkedIn:** linkedin.com/in/leandropires-de-moraes-filho/
+
+
+> "O aprendizado nunca é demais, e a tecnologia nunca irá parar de evoluir." - Leandro Pires de Moraes Filho
