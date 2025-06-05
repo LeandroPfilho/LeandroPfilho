@@ -20,6 +20,6 @@ Aqui estão alguns dos projetos que estou desenvolvendo ou já desenvolvi durant
 ## Como entrar em contato
 
 - **LinkedIn:** linkedin.com/in/leandropires-de-moraes-filho/
-
+- **Email:** filholeandro016@gmail.com
 
 > "O aprendizado nunca é demais, e a tecnologia nunca irá parar de evoluir." - Leandro Pires de Moraes Filho
