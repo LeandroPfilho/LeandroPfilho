@@ -3,7 +3,7 @@
 Olá, seja bem-vindo ao meu perfil! Meu nome é **Leandro Pires de Moraes Filho**, sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 ## Sobre mim
 
-- **Idade:** 19
+- **Idade:** 21
 - **Curso:** Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 - **Interesses:** Empreendedorismo, programação e Tecnologia.
   
